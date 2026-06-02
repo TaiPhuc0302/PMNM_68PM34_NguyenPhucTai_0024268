@@ -6,7 +6,7 @@
     <title>Danh sách sinh viên</title>
 </head>
 <body>
-    <h1>Danh sách sinh viên</h1>
+    <h1><?php echo $title; ?></h1>
     <style>
         table {
             border-collapse: collapse;
